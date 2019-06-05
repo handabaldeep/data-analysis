@@ -1,4 +1,4 @@
-% Marking ID -5912
+
 function m = mytemperature(a,b)
 % Convert min,max temperature in degree F to degree C
     m = zeros(2,2);

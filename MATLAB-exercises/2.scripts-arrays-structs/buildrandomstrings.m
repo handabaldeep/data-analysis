@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 function c_arr = buildrandomstrings(n)
     s = 'a':'z';
     len = abs(n);

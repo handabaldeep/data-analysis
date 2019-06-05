@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 
 function [matEVec,ev] = myPCA(mat)
     covmat = cov(mat);

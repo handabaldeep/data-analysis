@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 
 function mysin(num1,num2)
     choice_colour = menu('Choose a colour', 'red','blue','green');

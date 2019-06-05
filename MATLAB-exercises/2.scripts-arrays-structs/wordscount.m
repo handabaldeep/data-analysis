@@ -1,4 +1,4 @@
-% Marking ID -5912
+
 function [c1,c2] = wordscount(n)
 % Return n most frequent and least frequent words in a text file
     c1 = cell(length(n),2); % Most frequent words with count

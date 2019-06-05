@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 filenames = {'RedRidingHood.txt'; 'PrincessPea.txt'; 'Cinderella.txt'; 'CAFA1.txt'; 'CAFA2.txt'; 'CAFA3.txt'};
 f = cell(6,1);
 for i = 1:length(filenames)

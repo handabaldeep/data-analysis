@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 function res_str = uniqueword(str)
     res_str = '';
     persistent ctr;

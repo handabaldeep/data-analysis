@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 
 function plottrigs(str,varargin)
     x = -2*pi:0.1:2*pi;

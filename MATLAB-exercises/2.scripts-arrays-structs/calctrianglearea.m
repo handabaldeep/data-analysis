@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 function vc = calctrianglearea(mat)
 % Calculate area of triangles using vertices
     % If a multiple of 3 or not

@@ -1,4 +1,4 @@
-% Marking ID - 5912
+
 
 function myplotarea(nm,n)
     str = fileread(nm);
